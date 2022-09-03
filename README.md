@@ -1,4 +1,4 @@
-# CALCULADORA  testes unitários
+# CALCULADORA  testes automatizados
 ## Descrição
 A Calculadora foi desenvolvido no Eclipse utilizando testes unitários automatizados pela biblioteca Junit que consiste em uma versão final do projeto.
 
